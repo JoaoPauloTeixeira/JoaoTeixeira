@@ -3,7 +3,7 @@
 
 - ⌨️ Hard Skills
   Nodejs
-  https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg Javascript
+  Javascript
   Typescript
   Angular 
   Cloud, Lambda functions, S3, DynamoDB...
